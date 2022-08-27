@@ -1,7 +1,7 @@
 # paidy_assignment
-Data Ingestion and Data Exploration of Credit Risk Project
-Welcome to my project solution. 
-Then if u're her to review my test assignment, please look at the files in the following order:
+Data Ingestion and Data Exploration of Credit Risk Project.
+**Welcome to my project solution. 
+**Then if u're her to review my test assignment, please look at the files in the following order:
 - 1st file: 
   + DESCRIPTION OF DATA INGESTION SYSTEM.docx 
   + Link: https://github.com/nhungluong1989/paidy_assignment/blob/main/DESCRIPTION%20OF%20DATA%20INGESTION%20SYSTEM.docx
