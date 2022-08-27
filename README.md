@@ -15,7 +15,7 @@ Then if u're here to review my test assignment, please look at the files in the 
   + flow.xml.gz
   + Link: https://github.com/nhungluong1989/paidy_assignment/blob/main/flow.xml.gz
   ==> This xml file is NIFI Flow that I already implemented for this proejct
-- 3rnd file:
+- 3rd file:
   + Data Exploration_Credit Risk Analysis.ipynb
   + Link: https://github.com/nhungluong1989/paidy_assignment/blob/main/Data%20Exploration_Credit%20Risk%20Analysis.ipynb
   ==> This ipynb file is what I did to explore data by python code to get insights about this credit risk dataset
